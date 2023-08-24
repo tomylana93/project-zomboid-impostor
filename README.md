@@ -1,1 +1,1 @@
-# project-zomboid-impostor
+# Project Zomboid Impostor Server
